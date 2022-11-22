@@ -1,6 +1,6 @@
 # Project Name
 
-Simple Hello messages
+Hello React Frontend
 
 ## Frontend
 
